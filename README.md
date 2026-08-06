@@ -32,12 +32,12 @@ Si deseas compilar el código fuente por ti mismo, necesitarás el ejecutable ar
 
 Abre una terminal o símbolo del sistema en la carpeta del proyecto y ejecuta el comando correspondiente según la versión de tu juego:
 
-```bash
+```cmd
 * Versión No HD (PSP Standard): 
 armips.exe nohd.asm
-bash```
+```
 
-```bash
+```cmd
 * Versión HD (PS3 / HD Ver.): 
 armips.exe hd.asm
 bash```
