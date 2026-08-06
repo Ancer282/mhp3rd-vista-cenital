@@ -34,8 +34,10 @@ Abre una terminal o símbolo del sistema en la carpeta del proyecto y ejecuta el
 
 ```bash
 * Versión No HD (PSP Standard): 
-armips.exe nohd.asm```
+armips.exe nohd.asm
+bash```
 
 ```bash
 * Versión HD (PS3 / HD Ver.): 
-armips.exe hd.asm```
+armips.exe hd.asm
+bash```
