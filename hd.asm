@@ -4,7 +4,6 @@
 
 yaw_hook equ 0x88E68FC ; de aquí es donde saltas al código
 NUM_CAM equ 0x09F4E1E4 ; aquí guarda el numero de la cámara
-DISTAN equ 0x43FF ; distancia
 
 .createfile "camara_cenital_HD.bin", 0
 
